@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "id.refactory.duniagames",
+    "sha256_cert_fingerprints":
+    ["EE:45:4D:E1:E9:3F:D0:5A:66:00:2C:0C:F0:1A:01:CA:EC:DB:FB:5C:A6:7A:39:54:82:8A:C2:CF:45:48:F8:7B"]
+  }
+}]
