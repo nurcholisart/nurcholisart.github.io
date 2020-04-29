@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TN44P3E6DY.id.co.duniagames.ios",
+        "paths": [
+          "/chat/*"
+        ]
+      }
+    ]
+  }
+}
