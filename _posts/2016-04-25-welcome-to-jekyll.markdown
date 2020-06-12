@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Halo Alfayooooong
 featured: true
 tags: [frontpage, jekyll, blog]
 image: '/images/posts/image18.jpeg'
